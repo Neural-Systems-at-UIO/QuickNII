@@ -91,13 +91,13 @@ If your work makes use of previous atlas versions, or brain region descriptions 
 
 **Release notes**
 ~~~~~~~~~~~~~~~~~~
-*Version 2.2 (2019-05-28) This release includes several new reference atlases: ABAMouse-v3-2017 and WHSRat-v3 both with Mac and Windows.
+* Version 2.2 (2019-05-28) This release includes several new reference atlases: ABAMouse-v3-2017 and WHSRat-v3 both with Mac and Windows.
 Linux support was added in July 2020. 
 
-*Version 2.2preview (2019-04-02) Series descriptor builder recognizes multiple numbering variants in filenames (numbers at fixed character position from either end of names, and sequence indicator \_s prefixanywhere) 
+* Version 2.2preview (2019-04-02) Series descriptor builder recognizes multiple numbering variants in filenames (numbers at fixed character position from either end of names, and sequence indicator \_s prefixanywhere) 
 Coordinate transformation to/from Allen CCFv3 added to Mouse package.
 
-*Version 2.1 (2018-12-05) First stable version
+* Version 2.1 (2018-12-05) First stable version
 
 
 
