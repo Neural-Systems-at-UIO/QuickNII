@@ -69,7 +69,7 @@ QuickNII can be used with the following reference atlases:
 |Waxholm Space Atlas of the Sprague Dawley rat v4  |
 +--------------------------------------------------+    
 
-** How to cite:** 
+**How to cite:** 
 
 **Allen Mouse Brain Atlas Common Coordinate Framework version 3 (RRID:JCR_020999 and RRID:JRC_021000)** 
 
