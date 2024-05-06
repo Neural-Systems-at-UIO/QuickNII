@@ -1,5 +1,5 @@
 
-**Installation requirements**
+**Installation and citation**
 -----------------------------
 **System requirements**
 ~~~~~~~~~~~~~~~~~~~~~~~~
