@@ -21,3 +21,7 @@ You can read about it here: https://quicknii.readthedocs.io/en/latest/imageprepr
 (5) Where can I find information about the coordinates of my images? 
 
 --> Information can be found in this guide under "Coordinates"
+
+(6) How can I try QuickNIi with my own atlas?
+
+--> Documentation of the cutlas file format is available here: https://www.nitrc.org/plugins/mwiki/index.php?title=quicknii:Cutlas_file_format
