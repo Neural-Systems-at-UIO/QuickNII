@@ -1,18 +1,7 @@
 **Introduction**
 ------------------- 
-QuickNII is one of several tools developed by the Human Brain Project
-(HBP) with the aim of facilitating brain atlas-based analysis and
-integration of experimental data and knowledge about the human and
-rodent brain. 
-
-.. tip::   
-   **Visit** `EBRAINS <https://ebrains.eu/service/quicknii-and-visualign/>`_ **for more information about Image registration.**
-   
-
-.. tip:: 
-   **QuickNII and VisuAlign are part of the QUINT workflow**
-   
-   Visit `EBRAINS <https://ebrains.eu/service/quint/>`_ for more information about QUINT. Find full user documentation `here <https://quint-workflow.readthedocs.io>`_. 
+QuickNII is one of several tools developed by the NeSys laboratory at University of Oslo with the aim of facilitating brain atlas-based analysis and
+integration of experimental data and knowledge about the human and rodent brain. 
 
    
 QuickNII is a stand-alone application for user-guided affine
@@ -42,7 +31,14 @@ the QuickNII registration for an optimal fit.
    
 Figure from Bjerke et al. 2018. Front Neuroanat.
 
+.. tip::   
+   **Visit** `EBRAINS <https://ebrains.eu/service/quicknii-and-visualign/>`_ **for more information about Image registration.**
+   
 
+.. tip:: 
+   **QuickNII and VisuAlign are part of the QUINT workflow**
+   
+   Visit `EBRAINS <https://ebrains.eu/service/quint/>`_ for more information about the QUINT workflow. Find full user documentation `here <https://quint-workflow.readthedocs.io>`_. 
 
 
 
