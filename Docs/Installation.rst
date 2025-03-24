@@ -55,12 +55,14 @@ Framework Partnership Agreement No. 650003 (HBP FPA).
 
 **Citation of the atlases embedded in the tool:**
 
-QuickNII can be used with the following reference atlases:
+QuickNII has the following reference atlases integrated and validated:
 
 +--------------------------------------------------+
 |Allen Mouse Brain Atlas version 3 2015            |
 |                                                  |
 |Allen Mouse Brain Atlas version 3 2017            |
+|                                                  |
+|Kim-UnifiedMouse-v1                               |
 |                                                  |
 |Waxholm Space Atlas of the Sprague Dawley rat v2  |
 |                                                  |
@@ -78,6 +80,10 @@ QuickNII can be used with the following reference atlases:
 * Wang Q, Ding SL, Li Y, Royall J, Feng D, Lesnar P, Graddis N, Naeemi M, Facer B, Ho A, Dolbeare T, Blanchard B, Dee N, Wakeman W, Hirokawa KE, Szafer A, Sunkin SM, Oh SW, Bernard A, Phillips JW, Hawrylycz M, Koch C, Zeng H, Harris JA, Ng L. The Allen Mouse Brain Common Coordinate Framework: A 3D Reference Atlas. Cell. 2020 May 14;181(4):936-953.e20. doi: 10.1016/j.cell.2020.04.007. Epub 2020 May 7. 
 
 See the `citation policy <https://alleninstitute.org/citation-policy/>`_ from the Allen Intitute for more information.
+
+**Kim-UnifiedMouse-v1**
+
+* Chon et al. 2019, Nature Communications 10:5067. https://doi.org/10.1038/s41467-019-13057-w
 
 **Waxholm Atlas of the Sprague Dawley Rat**
 
@@ -99,6 +105,13 @@ We encourage researchers who use DeMBA to cite both the dataset and publication 
 •	Dataset: Carey et al. (2024). Developmental mouse brain atlas (DeMBA) with continuous coverage of postnatal day 4 to 56 (v1) [Data set]. EBRAINS. https://doi.org/10.25493/PWDG-536
 •	Allen CCFv3 segmentations: Wang et al. (2020). The Allen Mouse Brain Common Coordinate Framework: A 3D Reference Atlas. Cell. https://doi.org/10.1016/j.cell.2020.04.007 
 •	KimLabDev segmentations: Kronman et al. (2024). Developmental mouse brain common coordinate framework. Nature Communications. https://doi.org/10.1038/s41467-024-53254-w
+
+**In addition, versions have been compiled by other researchers**
+
+
+
+
+
 
 **Release notes**
 ~~~~~~~~~~~~~~~~~~
