@@ -12,7 +12,7 @@
 | performance.
 
 .. Note:: 
-  ** When using *Filebuilder* to generate the image series descriptor file, a warning will appear if your files are too big (details below).**
+  **When using *Filebuilder* to generate the image series descriptor file, a warning will appear if your files are too big (details below).**
 
 Preprocessing of images with other software tools (e.g. Nutil Transform,
 ImageMagick, Matlab scripts) or python scripts found in many open source
@@ -32,7 +32,7 @@ sections (e.g. s002, s006, s010 for every 4th section starting with
 section 2).
 
 .. Note:: 
-  ** if you plan to analyse your images with the **QUINT workflow**, both the image segmentation file from ilastik and the atlas map that correspond to a particular section must contain a unique ID that meets the file naming requirement described above. These unique IDs must also be present in the XML/JSON file containing the anchoring information: this happens automatically as long as the images that are anchored with QuickNII contain the unique IDs.**
+  **If you plan to analyse your images with the **QUINT workflow**, both the image segmentation file from ilastik and the atlas map that correspond to a particular section must contain a unique ID that meets the file naming requirement described above. These unique IDs must also be present in the XML/JSON file containing the anchoring information: this happens automatically as long as the images that are anchored with QuickNII contain the unique IDs.**
 
 Nutil Quantifier supports IDs in the format: sXXX.., with XXX..
 representing the section number, as well as formats defined by regular
