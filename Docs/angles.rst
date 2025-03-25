@@ -36,6 +36,5 @@ of the cortex in the posterior part of the brain.
 
 **Note**: the results might look similar with angles that deviate 180
 degrees (corresponding to looking at the animal from the back or from
-the front). To ease the curation process, however, we recommend using
-the smallest angle possible.
+the front). 
 
