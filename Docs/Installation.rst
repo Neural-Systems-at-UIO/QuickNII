@@ -24,6 +24,7 @@ interface).
 
 **Download:**
 
+Download of the software is from Nitrc.org
 Link: https://www.nitrc.org/projects/quicknii/ 
 
 Unzipp the QuickNII folder at your desired location.
@@ -51,7 +52,7 @@ International for the main component. Source code: MIT License.
 QuickNII is developed at the Neural Systems Laboratory, Institute of
 Basic Medical Sciences,University of Oslo (Norway), with funding from the European Union’s
 Horizon 2020 Framework Programme for Research and Innovation under the
-Framework Partnership Agreement No. 650003 (HBP FPA).
+Framework Partnership Agreement No. 650003 (HBP FPA) and the European Union’s Horizon Europe Programme for Research Infrastructures Grant Agreement No. 101147319 (EBRAINS 2.0).
 
 **Citation of the atlases embedded in the tool:**
 
@@ -89,7 +90,7 @@ See the `citation policy <https://alleninstitute.org/citation-policy/>`_ from th
 
 Please refer to the atlas using RRID:SCR_017124, specify the atlas version(s) used, and cite the most recent publication:
 
-•	Kleven, H., Bjerke, I.E., Clascá, F. et al. Waxholm Space atlas of the rat brain: a 3D atlas supporting data analysis and integration. Nat Methods 20, 1822–1829 (2023). DOI: 10.1038/s41592-023-02034-3
+•	Version 4: Kleven, H., Bjerke, I.E., Clascá, F. et al. Waxholm Space atlas of the rat brain: a 3D atlas supporting data analysis and integration. Nat Methods 20, 1822–1829 (2023). DOI: 10.1038/s41592-023-02034-3
 
 If your work makes use of previous atlas versions, or brain region descriptions detailed in earlier publications, please also cite the corresponding publication:
 
@@ -115,7 +116,7 @@ TBA
 
 **Release notes**
 ~~~~~~~~~~~~~~~~~~
-* Version 2.2 (2019-05-28) This release includes several new reference atlases: ABAMouse-v3-2017 and WHSRat-v3 both with Mac and Windows.
+* Version 2.2 (2019-05-28) This release includes several reference atlaseslisted above.
 Linux support was added in July 2020. 
 
 * Version 2.2preview (2019-04-02) Series descriptor builder recognizes multiple numbering variants in filenames (numbers at fixed character position from either end of names, and sequence indicator \_s prefixanywhere) 
