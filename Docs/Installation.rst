@@ -116,7 +116,7 @@ TBA
 
 **Release notes**
 ~~~~~~~~~~~~~~~~~~
-* Version 2.2 (2019-05-28) This release includes several reference atlaseslisted above.
+* Version 2.2 (2019-05-28) This release includes several reference atlases listed above.
 Linux support was added in July 2020. 
 
 * Version 2.2preview (2019-04-02) Series descriptor builder recognizes multiple numbering variants in filenames (numbers at fixed character position from either end of names, and sequence indicator \_s prefixanywhere) 
