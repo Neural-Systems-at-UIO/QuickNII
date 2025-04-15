@@ -32,7 +32,7 @@ the QuickNII registration for an optimal fit.
 Figure from Bjerke et al. 2018. Front Neuroanat.
 
 .. tip::   
-   **Visit** `EBRAINS <https://ebrains.eu/service/quicknii-and-visualign/>`_ **for more information about Image registration.**
+   **Visit** `EBRAINS <https://ebrains.eu/service/quicknii-and-visualign/>`_ **for more information about our software for image registration and online solutions.**
    
 
 .. tip:: 
