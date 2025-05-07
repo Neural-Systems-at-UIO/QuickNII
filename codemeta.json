@@ -39,7 +39,7 @@
     ],
     "version": "2.2",
     "developmentStatus": "inactive",
-    "funding": "H2020-EU.1.2 SGA 720270, H2020-EU.2.3 SGA 785907",
+    "funding": "H2020-EU.1.2 SGA 720270, H2020-EU.2.3 SGA 785907 and HORIZON-INFRA (EBRAINS 2.0) 101147319",
     "issueTracker": "https://github.com/Neural-Systems-at-UIO/QuickNII/issues",
     "referencePublication": "https://doi.org/10.1371/journal.pone.0216796"
 }
