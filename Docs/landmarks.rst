@@ -30,6 +30,7 @@ that containing key anatomical landmarks. Some examples are shown below:
 
 **Optic tract in red, mid-level of the anterior hippocampus** 
 
+Find more lamdmark examples in this resource: https://zenodo.org/records/7575515
 
 
 
