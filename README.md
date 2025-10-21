@@ -4,15 +4,11 @@ QuickNII is one of several tools developed by the Nesys laboratory, University o
 QuickNII is a stand-alone desktop software for user guided affine spatial registration (anchoring) of sectional image data, typically high resolution histological images, to a 3D reference atlas space.
 A key feature of the tool is its ability to generate user defined cut planes through the atlas templates that match the orientation of the cutting plane of the 2D experimental images (atlas maps).
 
-# Acknowledgements
-QuickNII is developed by the Neural Systems Laboratory at the Institute of Basic Medical Sciences, University of Oslo, Norway. QuickNII was developed with support from the EBRAINS infrastructure, and funding from the European Union’s Horizon 2020 Framework Programme for Research and Innovation under the Framework Partnership Agreement No. 650003 (HBP FPA) and the European Union’s Horizon Europe Programme for Research Infrastructures Grant Agreement No. 101147319 (EBRAINS 2.0).
-
+# Developper
+Gergely Csucs
 
 # Documentation
 https://quicknii.readthedocs.io
-
-# Developper
-Gergely Csucs
 
 # Authors
  Maja A Puchades, Jan G Bjaalie. 
@@ -26,6 +22,12 @@ Gergely Csucs
 
 # Current version
 Version 2.2 (2019-05-28) This release includes several reference atlases: ABAMouse-v3-2015; ABAMouse-v3-2017 and WHSRat-v2, v3 and v4; Kim-UnifiedMouse-v1 both with Mac and Windows.
+
+# Citation
+**QuickNII (RRID:SCR_016854)**. Puchades MA, Csucs G, Lederberger D, Leergaard TB and Bjaalie JG. Spatial registration of serial microscopic brain images to three-dimensional reference atlases with the QuickNII tool. PLosONE, 2019, 14(5): e0216796. https://doi.org/10.1371/journal.pone.0216796
+
+# Acknowledgements
+QuickNII is developed by the Neural Systems Laboratory at the Institute of Basic Medical Sciences, University of Oslo, Norway. QuickNII was developed with support from the EBRAINS infrastructure, and funding from the European Union’s Horizon 2020 Framework Programme for Research and Innovation under the Framework Partnership Agreement No. 650003 (HBP FPA) and the European Union’s Horizon Europe Programme for Research Infrastructures Grant Agreement No. 101147319 (EBRAINS 2.0).
   
 # Contact us
 Report issues here on github or email: support@ebrains.eu
