@@ -24,7 +24,9 @@ https://quicknii.readthedocs.io
 Version 2.2 (2019-05-28) This release includes several reference atlases: ABAMouse-v3-2015; ABAMouse-v3-2017 and WHSRat-v2, v3 and v4; Kim-UnifiedMouse-v1 both with Mac and Windows.
 
 # Citation
-**QuickNII (RRID:SCR_016854)**. Puchades MA, Csucs G, Lederberger D, Leergaard TB and Bjaalie JG. Spatial registration of serial microscopic brain images to three-dimensional reference atlases with the QuickNII tool. PLosONE, 2019, 14(5): e0216796. https://doi.org/10.1371/journal.pone.0216796
+**QuickNII (RRID:SCR_016854)**. 
+- Puchades MA, Csucs G, Lederberger D, Leergaard TB and Bjaalie JG. Spatial registration of serial microscopic brain images to three-dimensional reference atlases with the QuickNII tool. PLosONE, 2019, 14(5): e0216796. https://doi.org/10.1371/journal.pone.0216796
+- Puchades MA, Yates SC, Csucs G, Carey H, Balkir A, Leergaard TB, Bjaalie JG. Software and pipelines for registration and analyses of rodent brain image data in reference atlas space. Front Neuroinform. 2025 Sep 24;19:1629388. https://doi.org/10.3389/fninf.2025.1629388
 
 # Acknowledgements
 QuickNII is developed by the Neural Systems Laboratory at the Institute of Basic Medical Sciences, University of Oslo, Norway. QuickNII was developed with support from the EBRAINS infrastructure, and funding from the European Union’s Horizon 2020 Framework Programme for Research and Innovation under the Framework Partnership Agreement No. 650003 (HBP FPA) and the European Union’s Horizon Europe Programme for Research Infrastructures Grant Agreement No. 101147319 (EBRAINS 2.0).
