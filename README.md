@@ -4,8 +4,6 @@ QuickNII is one of several tools developed by the Nesys laboratory, University o
 QuickNII is a stand-alone desktop software for user guided affine spatial registration (anchoring) of sectional image data, typically high resolution histological images, to a 3D reference atlas space.
 A key feature of the tool is its ability to generate user defined cut planes through the atlas templates that match the orientation of the cutting plane of the 2D experimental images (atlas maps).
 
-Currently QuickNII supports the Allen Mouse Brain Atlas CCFv3, 2015 and 2017 and the Waxholm Space Atlas of the Spraque Dawley Rat v2, v3 and v4.
-
 # Download
 Nitrc.org: https://www.nitrc.org/frs/?group_id=1341
 
