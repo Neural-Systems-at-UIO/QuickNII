@@ -4,24 +4,22 @@ QuickNII is one of several tools developed by the Nesys laboratory, University o
 QuickNII is a stand-alone desktop software for user guided affine spatial registration (anchoring) of sectional image data, typically high resolution histological images, to a 3D reference atlas space.
 A key feature of the tool is its ability to generate user defined cut planes through the atlas templates that match the orientation of the cutting plane of the 2D experimental images (atlas maps).
 
-# Developper
-Gergely Csucs
+# Download
+Nitrc.org: https://www.nitrc.org/frs/?group_id=1341
+
+# Latest stable version
+Version 2.2 (2019-05-28) This release includes several reference atlases: ABAMouse-v3-2015; ABAMouse-v3-2017 and WHSRat-v2, v3 and v4; Kim-UnifiedMouse-v1 both with Mac and Windows.
 
 # Documentation
 https://quicknii.readthedocs.io
 
-# Authors
- Maja A Puchades, Jan G Bjaalie. 
+# Contributors
+- Programming: Gergely Csucs
+- Conception, design, validation: Gergely Csucs, Maja A Puchades, Sharon Yates, Jan G Bjaalie. 
 
 # Licence
 - Main component: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 - Source code: MIT licence
-
-# Download
-- Nitrc.org: https://www.nitrc.org/frs/?group_id=1341
-
-# Current version
-Version 2.2 (2019-05-28) This release includes several reference atlases: ABAMouse-v3-2015; ABAMouse-v3-2017 and WHSRat-v2, v3 and v4; Kim-UnifiedMouse-v1 both with Mac and Windows.
 
 # Citation
 **QuickNII (RRID:SCR_016854)**. 
