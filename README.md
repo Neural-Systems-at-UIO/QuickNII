@@ -15,7 +15,7 @@ https://quicknii.readthedocs.io
 
 # Contributors
 - Programming: Gergely Csucs
-- Conception, design, validation: Gergely Csucs, Maja A Puchades, Sharon Yates, Jan G Bjaalie. 
+- Conception, design, validation: Gergely Csucs, Maja A Puchades, Sharon C Yates, Jan G Bjaalie. 
 
 # Licence
 - Main component: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
