@@ -29,21 +29,19 @@ the QuickNII registration for an optimal fit.
    :width: 6.30139in
    :height: 2.48678in
    
-
 .. tip:: 
-   **QuickNII and VisuAlign are part of the QUINT workflow**
-   
-   Visit `EBRAINS <https://ebrains.eu/service/quint/>`_ for more information about the QUINT workflow. Find full user documentation `here <https://quint-workflow.readthedocs.io>`_. 
+     **QuickNII and VisuAlign are part of the QUINT workflow**
+     Visit `EBRAINS <https://ebrains.eu/service/quint/>`_ for more information about the QUINT workflow. Find full user documentation `here <https://quint-workflow.readthedocs.io>`_. 
 
 **Which atlases are supported?**
 -----------------------------
-
 1. Allen Mouse Brain Atlas Common Coordinate Framework version 3 (2017) (CCFv3)
 2. Waxholm Atlas of the Sprague Dawley rat, version 3 and 4 (WHS rat brain atlas)
 3. Developmental Mouse Brain Atlas, version 2 (DeMBA)
 
 **What is the output of QuickNII?**
 ---------------------------------
-- A registration file (XML or JSON format) containing the coordinates of your regisered section images in atlas space. 
+
+A registration file (XML or JSON format) containing the coordinates of your regisered section images in atlas space. 
    Use the JSON format for continuing registration in VisuALign.
-- Export of atlas maps (png format)
+Export of atlas maps (png format)
