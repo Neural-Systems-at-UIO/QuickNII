@@ -42,7 +42,7 @@ the QuickNII registration for an optimal fit.
 2. Waxholm Atlas of the Sprague Dawley rat, version 3 and 4 (WHS rat brain atlas)
 3. Developmental Mouse Brain Atlas, version 2 (DeMBA)
 
- **What is the output of QuickNII?**
+**What is the output of QuickNII?**
 ---------------------------------
 - A registration file (XML or JSON format) containing the coordinates of your regisered section images in atlas space. 
    Use the JSON format for continuing registration in VisuALign.
