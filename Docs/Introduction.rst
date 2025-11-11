@@ -42,6 +42,7 @@ the QuickNII registration for an optimal fit.
 **What is the output of QuickNII?**
 ---------------------------------
 
-A registration file (XML or JSON format) containing the coordinates of your regisered section images in atlas space. 
-   Use the JSON format for continuing registration in VisuALign.
-Export of atlas maps (png format)
+-A registration file (XML or JSON format) containing the coordinates of your regisered section images in atlas space. 
+Use the JSON format for continuing registration in VisuALign.
+
+-Export of atlas maps (png format)
