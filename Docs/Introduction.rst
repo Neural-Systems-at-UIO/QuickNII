@@ -1,9 +1,8 @@
-**Introduction**
-------------------- 
+**What is QuickNII?**
+======================= 
 QuickNII is one of several tools developed by the NeSys laboratory at University of Oslo with the aim of facilitating brain atlas-based analysis and
 integration of experimental data and knowledge about the human and rodent brain. 
-
-   
+  
 QuickNII is a stand-alone application for user-guided affine
 spatial registration (anchoring) of section images, typically high
 resolution histological images, to 3D reference atlas space. A key
@@ -24,15 +23,11 @@ the QuickNII registration for an optimal fit.
 .. image:: 6bef45ee36424df69f030c687f030605/media/image1.png
    :width: 6.3in
    :height: 4.04916in 
-   
+
+
 .. image:: 6bef45ee36424df69f030c687f030605/media/image2.png
    :width: 6.30139in
    :height: 2.48678in
-   
-Figure from Bjerke et al. 2018. Front Neuroanat.
-
-.. tip::   
-   **Visit** `EBRAINS <https://ebrains.eu/service/quicknii-and-visualign/>`_ **for more information about our software for image registration and online solutions.**
    
 
 .. tip:: 
@@ -40,6 +35,15 @@ Figure from Bjerke et al. 2018. Front Neuroanat.
    
    Visit `EBRAINS <https://ebrains.eu/service/quint/>`_ for more information about the QUINT workflow. Find full user documentation `here <https://quint-workflow.readthedocs.io>`_. 
 
+**Which atlases are supported?**
+-----------------------------
 
+1. Allen Mouse Brain Atlas Common Coordinate Framework version 3 (2017) (CCFv3)
+2. Waxholm Atlas of the Sprague Dawley rat, version 3 and 4 (WHS rat brain atlas)
+3. Developmental Mouse Brain Atlas, version 2 (DeMBA)
 
- 
+ **What is the output of QuickNII?**
+---------------------------------
+- A registration file (XML or JSON format) containing the coordinates of your regisered section images in atlas space. 
+   Use the JSON format for continuing registration in VisuALign.
+- Export of atlas maps (png format)
