@@ -49,6 +49,7 @@ Unzipp the QuickNII folder at your desired location.
 
 
 **Versions and release notes**
+
 * Version 2.2 (2019-05-28) This release includes several reference atlases.
 Linux support was added in July 2020. 
 
