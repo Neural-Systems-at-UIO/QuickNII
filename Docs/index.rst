@@ -7,6 +7,7 @@ QuickNII: Software for 2D image registration to 3D atlas
 
    Introduction
    Installation
+   Acknowledgements
    support
    publications
  
