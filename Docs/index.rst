@@ -7,7 +7,6 @@ QuickNII: Software for 2D image registration to 3D atlas
 
    Introduction
    Installation
-   imageprepro
    support
    publications
  
@@ -22,6 +21,7 @@ QuickNII: Software for 2D image registration to 3D atlas
    :numbered:
    :maxdepth: 3
    
+   imageprepro
    anchoring
    landmarks
    angles
