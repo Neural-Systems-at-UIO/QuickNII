@@ -40,7 +40,7 @@ International for the main component. Source code: MIT License.
   three-dimensional reference atlases with the QuickNII tool. PLOS ONE
   14(5): e0216796. https://doi.org/10.1371/journal.pone.0216796
 
-**Download:**
+**Download**
 ~~~~~~~~~~~~~
 Download of the software is from Nitrc.org
 Link: https://www.nitrc.org/projects/quicknii/ 
