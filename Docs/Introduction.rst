@@ -35,9 +35,14 @@ the QuickNII registration for an optimal fit.
 
 **Which atlases are supported?**
 -----------------------------
-1. Allen Mouse Brain Atlas Common Coordinate Framework version 3 (2017) (CCFv3) (Wang et al. 2020. Cell, https://doi.org/10.1016/j.cell.2020.04.007. Epub 2020 May 7; RRID:JCR_020999 and RRID:JRC_021000) 
+1. Allen Mouse Brain Atlas Common Coordinate Framework version 3 (2015 and 2017) (CCFv3) (Wang et al. 2020. Cell, https://doi.org/10.1016/j.cell.2020.04.007. Epub 2020 May 7; RRID:JCR_020999 and RRID:JRC_021000) 
 2. Waxholm Atlas of the Sprague Dawley rat, version 3 and 4 (WHS rat brain atlas) (Osen et al. 2019. NeuroImage, https:doi.org/10.1016/j.neuroimage.2019.05.016; Kleven et al. Nat Methods, 2020. https://doi.org/10.1038/s41592-023-02034-3; RRID:SCR_017124)
-3. Developmental Mouse Brain Atlas, version 2 (DeMBA) (Carey et al. 2024. Nat Comm. https://doi.org/10.1038/s41467-025-63177-9; RRID:SCR_025324)
+3. Kim-UnifiedMouse-v1 (Chon et al. 2019, Nature Communications 10:5067. https://doi.org/10.1038/s41467-019-13057-w)
+4. Developmental Mouse Brain Atlas, version 2 (DeMBA) (Carey et al. 2024. Nat Comm. https://doi.org/10.1038/s41467-025-63177-9; RRID:SCR_025324).
+We encourage researchers who use DeMBA to cite both the dataset and publication presenting DeMBA, and to specify the age of any template(s) used and the version of any segmentation(s) used.
+
+-Allen CCFv3 segmentations: Wang et al. (2020). The Allen Mouse Brain Common Coordinate Framework: A 3D Reference Atlas. Cell. https://doi.org/10.1016/j.cell.2020.04.007.
+-KimLabDev segmentations: Kronman et al. (2024). Developmental mouse brain common coordinate framework. Nature Communications. https://doi.org/10.1038/s41467-024-53254-w
 
 **What is the output of QuickNII?**
 ---------------------------------
