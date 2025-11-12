@@ -9,12 +9,9 @@ QuickNII: Software for 2D image registration to 3D atlas
    Installation
    Acknowledgements
    support
-   publications
+   FAQ
+   
  
-   
-   
-   
-   
    
    
 .. toctree::
@@ -30,7 +27,7 @@ QuickNII: Software for 2D image registration to 3D atlas
    saving
    coordinates
    export
-   FAQ
+   publications
    
    
    
