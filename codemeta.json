@@ -64,7 +64,7 @@
     "ActionScript",
     "Java"
   ],
-  "runtimePlatform": "AIR", "JRE",
+  "runtimePlatform": ["AIR", "JRE"],
   "operatingSystem": [
     "Windows",
     "macOS",
