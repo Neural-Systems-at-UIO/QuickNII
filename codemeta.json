@@ -8,8 +8,8 @@
     {
       "givenName": "Gergely",
       "familyName": "Csucs",
-      "type": "Person",
-      "id": "https://orcid.org/0000-0002-2093-6274",
+      "@type": "Person",
+      "@id": "https://orcid.org/0000-0002-2093-6274",
       "affiliation": {
         "type": "Organization",
         "name": "NeSys lab, University of Oslo"
@@ -18,8 +18,8 @@
     {
       "givenName": "Trygve B.",
       "familyName": "Leergaard",
-      "type": "Person",
-      "id": "https://orcid.org/0000-0001-5965-8470",
+      "@type": "Person",
+      "@id": "https://orcid.org/0000-0001-5965-8470",
       "affiliation": {
         "type": "Organization",
         "name": "NeSys lab, University of Oslo"
@@ -28,8 +28,8 @@
     {
       "givenName": "Maja A.",
       "familyName": "Puchades",
-      "type": "Person",
-      "id": "https://orcid.org/0000-0002-4536-8197",
+      "@type": "Person",
+      "@id": "https://orcid.org/0000-0002-4536-8197",
       "affiliation": {
         "type": "Organization",
         "name": "NeSys lab, University of Oslo"
@@ -38,8 +38,8 @@
     {
       "givenName": "Jan G.",
       "familyName": "Bjaalie",
-      "type": "Person",
-      "id": "https://orcid.org/0000-0001-7899-906X",
+      "@type": "Person",
+      "@id": "https://orcid.org/0000-0001-7899-906X",
       "affiliation": {
         "type": "Organization",
         "name": "NeSys lab, University of Oslo"
@@ -64,7 +64,10 @@
     "ActionScript",
     "Java"
   ],
-  "runtimePlatform": ["AIR", "JRE"],
+  "runtimePlatform": [
+    "AIR",
+    "JRE"
+  ],
   "operatingSystem": [
     "Windows",
     "macOS",
