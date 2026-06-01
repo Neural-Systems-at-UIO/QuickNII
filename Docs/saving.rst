@@ -21,7 +21,7 @@ recommended.
    :width: 5.37222in
    :height: 3.25228in
 
--**Positon, Spacing**: position and spacing of section midpoints measured along the internal axis of the series, formed by the section midpoints themselves. Expressed in millimeters. Zero is positioned on the first section.
+-**Position, Spacing**: position and spacing of section midpoints measured along the internal axis of the series, formed by the section midpoints themselves. Expressed in millimeters. Zero is positioned on the first section.
 
 -**MainPosition, MainSpacing**: position and spacing of section midpoints measured along the main axis selected via the operation mode (like for coronal series, anterior-posterior axis is the main one). Expressed in millimeters. Position is absolute inside the template volume, zero is positioned on the border planes (like most posterior for coronal series).
 
@@ -44,7 +44,7 @@ In an ideal world all graphs are straight lines, just like the orange line behin
 
 QCAlign was developed to support the use of the QUINT workflow for high-throughput studies. It is a quality control tool that provides information about:
 
-1. The quality of the section images used as input to the QUINT workflow. It enables detection of regions that are affected by tissue damage, labelling defects, artifacts, or errors in image acqusition.
+1. The quality of the section images used as input to the QUINT workflow. It enables detection of regions that are affected by tissue damage, labelling defects, artifacts, or errors in image acquisition.
 
 2. The quality of the atlas-registration performed in the QUINT workflow.
 

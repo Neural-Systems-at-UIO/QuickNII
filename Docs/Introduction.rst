@@ -49,7 +49,7 @@ We encourage researchers who use DeMBA to cite both the dataset and publication 
 **What is the output of QuickNII?**
 ---------------------------------
 
--A registration file (XML or JSON format) containing the coordinates of your regisered section images in atlas space. 
+-A registration file (XML or JSON format) containing the coordinates of your registered section images in atlas space. 
 Use the JSON format for continuing registration in VisuALign.
 
 -Export of atlas maps (png format)
