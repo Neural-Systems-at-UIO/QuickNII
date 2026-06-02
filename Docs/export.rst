@@ -24,7 +24,7 @@ Open the exported QuickNII rainbow png files or the exported nl.png files from V
 - Image/Type > 8-bit
 - Image/Adjust > Threshold..., and pull the upper slider to the far left, Apply. If you untick Dark background, it will also invert the result (to black contour on white background). Auto Local Threshold... (also in Image/Adjust) may achieve a similar result in a couple clicks less.
 - Save the image
-- Scale to the same dimentions as your raw experimental file (match X and Y), save
+- Scale to the same dimensions as your raw experimental file (match X and Y), save
 - Copy the outline file and paste using "Edit"/"Paste Control...", "Transparent-white".
 - Save
     
